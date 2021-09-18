@@ -109,15 +109,22 @@
                 <p class="help-block text-danger"></p>
               </div>
               
+              <hr>
               <div class="col-auto my-1">
                 <div class="form-check">
                   <input class="form-check-input" type="checkbox" id="autoSizingCheck2">
                   <label class="form-check-label" for="autoSizingCheck2">
                   Recuerdame
                   </label>
+                  <hr>
                </div>
              </div>
-              
+             
+             <hr>
+                    <div class="pie-form">
+                        <a href="#">¿Perdiste tu contraseña?</a>
+                        <hr>
+                    </div> 
               
               <div class="mrgn-30-top">
                 <button type="submit" class="btn btn-larger btn-block"/>
